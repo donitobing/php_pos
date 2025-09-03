@@ -1,4 +1,5 @@
 <?php
+//Ini Kode Untuk Auth
 class Auth extends Controller {
     private $userModel;
 
